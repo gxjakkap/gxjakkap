@@ -1,0 +1,3 @@
+- 👋 Hi, I’m GuntxJakka
+- I'm currently studying Grade 10.
+- Interested in C++/C#
