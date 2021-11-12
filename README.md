@@ -3,14 +3,16 @@
 - Interested in Python/C++
 - Pronounce: he/him
 
+<br />
+<br />
 <a href="https://discordapp.com/users/480228633525354506">
-  <img align="left" alt="maybeimgg#8110" width="44px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/discord.svg" />
+  <img align="left" alt="maybeimgg#8110" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/discord.svg" />
 </a>
 <a href="https://twitter.com/guntxjakka">
-  <img align="left" alt="@guntxjakka" width="44px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitter.svg" />
+  <img align="left" alt="@guntxjakka" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/twitter.svg" />
 </a>
 <a href="https://twitch.com/guntxjakka">
-  <img align="left" alt="guntxjakka" width="44px" src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" />
+  <img align="left" alt="guntxjakka" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/twitch.svg" />
 </a>
 <a href="mailto:gunt@guntxjakka.me">
   📧 
