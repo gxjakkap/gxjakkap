@@ -15,5 +15,7 @@
 <a href="mailto:gunt@guntxjakka.me">
   📧 
 </a>
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxjakkap&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
