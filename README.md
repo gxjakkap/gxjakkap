@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m GuntxJakka
 - I'm currently studying Grade 10.
 - Interested in Python/C++
-- Currently working on [Rankbot](https://github.com/gxjakkap/rankbot) and [g;ode project](https://github.com/gxjakkap/godeapi)
+- Currently working on [Rankbotv2](https://github.com/gxjakkap/rankbotv2), [Rankbot](https://github.com/gxjakkap/rankbot) and [g;ode project](https://github.com/gxjakkap/godeapi)
 - Pronounce: he/him
 
 <br />
