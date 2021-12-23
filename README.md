@@ -15,6 +15,9 @@
 <a href="https://twitch.com/guntxjakka">
   <img align="left" alt="guntxjakka" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/twitch.svg" />
 </a>
+<a href="https://ko-fi.com/guntxjakka">
+  <img align="left" alt="guntxjakka" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/ko-fi.png" />
+</a>
 <a href="mailto:gunt@guntxjakka.me">
   <img align="left" alt="mail" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/email.png" />
 </a>
