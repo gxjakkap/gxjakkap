@@ -2,7 +2,7 @@
 - I'm currently studying Grade 10.
 - Learning Python/Javascript
 - Currently working on [Rankbot](https://github.com/gxjakkap/rankbot), [Rankbotv2](https://github.com/gxjakkap/rankbotv2), [thCovid](https://github.com/gxjakkap/thCovid), and [g;ode project](https://github.com/gxjakkap/godeapi)
-- Pronounce: he/him
+- Pronounce: he/him/anything i dont mind
 
 <br />
 <br />
