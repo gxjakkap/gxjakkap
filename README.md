@@ -4,8 +4,6 @@
 - Currently working on [Rankbot](https://github.com/gxjakkap/rankbot), [thCovid](https://github.com/gxjakkap/thCovid), and [g;ode project](https://github.com/godeProject)
 - Pronounce: he/him/anything i dont mind
 
-<br />
-<br />
 
 ### Connect with me
 <a href="https://discordapp.com/users/480228633525354506">
@@ -35,7 +33,7 @@
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
 
 
-### Gimme coffee
+### Gimme coffee (I don't drink coffee so it'd be milk tea😀)
 <a href="https://ko-fi.com/guntxjakka">
   <img align="left" alt="guntxjakka" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/ko-fi.png" />
 </a>
