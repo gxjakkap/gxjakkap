@@ -37,7 +37,7 @@
 <a href="https://ko-fi.com/guntxjakka">
   <img align="left" alt="guntxjakka" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/ko-fi.png" />
 </a>
-<a href="https://www.buymeacoffee.com/gxjakkap">
+<a href="https://www.buymeacoffee.com/guntxjakka">
   <img align="left" alt="guntxjakka" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/buymeacoffee.webp" />
 </a>
 <br />
