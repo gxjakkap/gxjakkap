@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m GuntxJakka
-- I'm currently studying Grade 10 at [PSU.Wittayanusorn School Hat Yai](http://psuwit.ac.th/).
+- I'm currently studying Grade 11 at [PSU.Wittayanusorn School Hat Yai](http://psuwit.ac.th/).
 - Learning Python/Javascript/TypeScript/Vue
 - Currently working on [Rankbot](https://github.com/gxjakkap/rankbot), [thCovid](https://github.com/gxjakkap/thCovid), and [g;ode project](https://github.com/godeProject)
 - Pronounce: he/him/anything i dont mind
