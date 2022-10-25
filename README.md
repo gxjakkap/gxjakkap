@@ -34,7 +34,7 @@
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" alt="nuxtjs" width="40" height="40"/> </a>
 
 
-### Gimme coffee (I don't drink coffee so it'd be milk tea😀)
+### Gimme coffee
 <a href="https://ko-fi.com/guntxjakka">
   <img align="left" alt="guntxjakka" width="30px" src="https://raw.githubusercontent.com/gxjakkap/gxjakkap/main/img/ko-fi.png" />
 </a>
