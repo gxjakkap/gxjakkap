@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m GuntxJakka
-- I'm a grade 12 student at [PSU.Wittayanusorn School Hat Yai](http://psuwit.ac.th/).
+- Currently a grade 12 student at [PSU.Wittayanusorn School Hat Yai](http://psuwit.ac.th/).
 - Mostly code in Javascript/Typescript and Python. Also learning Go and PHP.
-- Currently working on [Rankbot](https://github.com/gxjakkap/rankbot), [Autumn](https://github.com/gxjakkap/autumn), [Parcetrace](https://github.com/gxjakkap/parcetrace), and [g;ode project](https://github.com/godeProject)
+- Currently working on [Rankbot](https://github.com/gxjakkap/rankbot), and [g;ode project](https://github.com/godeProject)
 - Pronounce: he/him/anything i dont mind
 
 
