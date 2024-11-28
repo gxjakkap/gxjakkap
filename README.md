@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Jakka.
-- Currently a freshman at [King Mongkut's University of Technology Thonburi](https://kmutt.ac.th/).
+- Currently a student at [King Mongkut's University of Technology Thonburi](https://kmutt.ac.th/).
 - Pronounce: he/him/anything i dont mind
 
 
